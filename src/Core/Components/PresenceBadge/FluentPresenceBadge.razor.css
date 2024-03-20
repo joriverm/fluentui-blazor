@@ -1,4 +1,4 @@
-﻿.fluent-presence-badge {
+.fluent-presence-badge {
     position: relative;
     display: inline-block;
     --fluent-presence-badge-border-size: 2px;
@@ -11,6 +11,7 @@
     .fluent-presence-badge ::deep > img {
         border-radius: 999px;
         aspect-ratio: 1 / 1;
+        width: 100%;
     }
 
     .fluent-presence-badge ::deep .status {

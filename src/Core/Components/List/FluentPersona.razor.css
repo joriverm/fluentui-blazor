@@ -22,7 +22,7 @@
         .fluent-persona .initials img {
             border-radius: 50%;
             aspect-ratio: 1 / 1;
-            width: auto;
+            width: 100%;
             height: auto;
             margin-left: auto;
             margin-right: auto;
